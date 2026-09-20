@@ -37,6 +37,12 @@ body {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    transition: .5s;
+}
+
+.head .sticky{
+    background: yellowgreen;
+
 }
 
 .logo{
